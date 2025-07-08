@@ -43,8 +43,8 @@ It uses **HTML5**, **JavaScript**, and **PHP** to create a basic checkout page a
      ```
    - In `charge/index.php`:
      ```php
+     define('OMISE_PUBLIC_KEY', 'pkey_test_xxxx');
      define('OMISE_SECRET_KEY', 'skey_test_xxxx');
-     define('OMISE_SECRET_KEY', 'SECRET_KEY');
      ```
 
 3. **Run a local server**
