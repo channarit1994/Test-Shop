@@ -9,7 +9,7 @@ It uses **HTML5**, **JavaScript**, and **PHP** to create a basic checkout page a
 ## ⚙️ Tech Stack
 - ✅ HTML5
 - ✅ CSS (Bootstrap 5)
-- ✅ JavaScript (Omise.js)
+- ✅ JavaScript (Omise.js, SweetAlert2)
 - ✅ PHP (with Omise PHP library)
 
 ---
@@ -71,6 +71,12 @@ It uses **HTML5**, **JavaScript**, and **PHP** to create a basic checkout page a
 - [Omise API Documentation](https://docs.omise.co)
 - [Omise PHP Library](https://github.com/omise/omise-php)
 - [Omise.js Guide](https://docs.omise.co/omise-js/)
+
+---
+
+## 🌐 Demo
+
+You can try the live demo here: [https://channarit.com/](https://channarit.com/)
 
 ---
 
